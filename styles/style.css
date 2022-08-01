@@ -1,0 +1,30 @@
+button {
+    color: rgb(255, 255, 255);
+    
+    padding: 15px;
+    border: rgba(255, 9, 91, 0.571) 1px solid;
+    background-color: rgba(203, 47, 109, 0.511);
+    border-radius: 10px;
+}
+
+#table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    color: rgb(255, 0, 111);
+    margin: 15px;
+    padding: 15px;
+    border: rgba(255, 9, 91, 0.571) 5px solid;
+    background-color: rgba(203, 47, 109, 0.511);
+    border-radius: 15px
+}
+
+td {
+    margin: 50px 25px;
+    padding: 10px 25px;
+    border: rgb(255, 0, 111) 1px solid;
+    background-color: rgb(255, 130, 207);
+    border-radius: 5px
+}
+tr {
+    background: orange;
+  }
